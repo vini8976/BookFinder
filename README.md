@@ -4,6 +4,8 @@ A simple, responsive **Book Finder** web application built with **React + Vite +
 
 The app is designed for **Alex (a college student persona)** who needs a quick and easy way to find books.
 
+Live link -  ``` https://codesandbox.io/p/github/vini8976/BookFinder/main?import=true ```
+
 ---
 
 ## 🚀 Features
